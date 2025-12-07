@@ -1,5 +1,4 @@
 # DEVELOPERSAMEVOICE.github.io
-Official DeveloperSAMEVOICE site
 
 <!DOCTYPE html>
 <html lang="ru">
